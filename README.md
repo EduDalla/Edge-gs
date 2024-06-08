@@ -31,3 +31,6 @@ Dado o crescente e agravante problema dos vazamentos de óleo nos últimos anos,
 - Leitura do valor do potenciômetro e mapeamento para a velocidade do motor.
 - Verificação de obstáculos à frente e parada do motor se a distância for inferior a 10 cm.
 - Atraso de 500 milissegundos antes da próxima leitura.
+
+# Link do wokwi
+- https://wokwi.com/projects/399811140590535681
