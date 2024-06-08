@@ -3,7 +3,7 @@
 - Eduardo Dallabella Lima - rm556803
 - Heloísa Real - rm554535
   
-# TrutleSea
+# 🐢 TrutleSea 🐢
 --
 O vazamento de óleo em oceanos e corpos d’água representam uma das ameaças mais graves aos ecossistemas aquáticos. Esses incidentes causam danos à fauna e flora, comprometendo a qualidade da água, animais marinhos, e também  afetando negativamente as comunidades humanas que dependem desses recursos. A dificuldade em detectar vazamentos de óleo rapidamente agrava o problema, pois a resposta tardia aumenta os danos ambientais e eleva os custos de limpeza e mitigação. Diante desse cenário, a necessidade de uma solução eficiente para a detecção precoce de vazamentos de óleo é crucial para a preservação do meio ambiente e a sustentabilidade dos recursos naturais.
 
